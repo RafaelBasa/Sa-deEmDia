@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SaúdeEmDia</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="textoExemplo">O SaúdeEmDia é um aplicativo móvel que tem o papel de ajudar a população de Recife a terem uma boa saúde física, por meio de exercício físico. O SaúdeEmDia tem o objetivo de reunir pessoas de todas as idades e se conectarem pela a saúde e o exercício físico, o aplicativo terá dicas e orientações sobre como podemos ter uma vida mais saúdavel e ajudar no bem estar e também reunir grupos para participar juntos de atividades e eventos nas academias públicas espalhadas pela a cidade. </string>
+    <string name="msgError">User error</string>
+    <string name="Button">Enter</string>
+</resources>

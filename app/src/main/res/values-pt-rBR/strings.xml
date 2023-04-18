@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmpregaEu4</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="textoExemplo">O SaúdeEmDia is a mobile application that has the role of helping the population of Recife to have good physical health, through physical exercise. SaúdeEmDia aims to bring people of all ages together and connect for health and physical exercise, the application will have tips and guidelines on how we can have a healthier life and help not to be well and also gather groups to participate together in activities and events at public gyms throughout the city. </string>
+    <string name="msgError">Usuário incorreto</string>
+</resources>
